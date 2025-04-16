@@ -1,4 +1,4 @@
-# Estoque Manager - Projeto Pessoal
+# Controle de Estoque - Projeto Pessoal
 
 Este projeto foi desenvolvido como parte da matéria de Qualidade e Teste de Software. O objetivo é criar um sistema simples de gerenciamento de estoque usando **JavaScript**.
 
